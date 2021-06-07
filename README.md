@@ -1,3 +1,31 @@
+first Run npm start 
+  App Will Run at http://localhost:3000/
+
+
+second run npx  json-server --watch data/db.json --port 8000  for JSON SERVER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
