@@ -1,0 +1,54 @@
+.TopHeight {
+    margin: 65px;
+}
+
+.autherListDiv {
+    background-color: red;
+    margin: 14%;
+}
+
+.imgHeight {
+    max-height: 560px;
+    max-width: 1350px;
+}
+
+.Bg-primary {
+    background-color: #6200EE !important;
+}
+
+.imgStyle {
+    height: 250px;
+    width: 250px;
+    border-radius: 100px;
+}
+
+.tableStyle {
+    border: none !important;
+    border-radius: 100px;
+}
+
+.postDiv {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.postImg {
+    height: 200px;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+.perpostimgStyle {
+    min-height: 300px;
+    min-width: 300px;
+    margin: 0;
+    padding: 0;
+}
+
+.textareaStyle {
+    border: none;
+    min-width: 350px;
+    scroll-behavior: inherit;
+}
